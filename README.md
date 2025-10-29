@@ -1,1 +1,1 @@
-Hey everyone, this is my Data Analytics Portfolio. Please find attached some projects I did using Data Analytics, particularly using Python/Jupyter Notebook.
+Hey everyone, this is my Data Analytics Portfolio. Please find attached some the coding part of my projects in which by leveraging data I was able to find some actionable insights, particularly using Python/Jupyter Notebook.
